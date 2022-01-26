@@ -1,0 +1,80 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/malifpy/Alif/Git/word-search-puzzle-bruteforce/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+Build and Run	README.md	/^## Build and Run$/;"	s	chapter:Word Search Bruteforce
+Deskripsi Algoritma	doc/Tucil1_13520135.md	/^## Deskripsi Algoritma$/;"	s	chapter:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022
+GitHub Link [https://github.com/malifpy/word-search-puzzle-bruteforce](https://github.com/malifpy/word-search-puzzle-bruteforce)	doc/Tucil1_13520135.md	/^#### GitHub Link [https:\/\/github.com\/malifpy\/word-search-puzzle-bruteforce](https:\/\/github/;"	t	section:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022""Links and Check Lists
+Langkah 1	doc/Tucil1_13520135.md	/^#### Langkah 1$/;"	t	subsection:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022""Deskripsi Algoritma""Mem-*parse* Puzzle
+Langkah 1	doc/Tucil1_13520135.md	/^#### Langkah 1$/;"	t	subsection:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022""Deskripsi Algoritma""Menyelesaikan Puzzle
+Langkah 2	doc/Tucil1_13520135.md	/^#### Langkah 2$/;"	t	subsection:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022""Deskripsi Algoritma""Mem-*parse* Puzzle
+Langkah 2	doc/Tucil1_13520135.md	/^#### Langkah 2$/;"	t	subsection:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022""Deskripsi Algoritma""Menyelesaikan Puzzle
+Langkah 3	doc/Tucil1_13520135.md	/^#### Langkah 3$/;"	t	subsection:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022""Deskripsi Algoritma""Mem-*parse* Puzzle
+Langkah 3	doc/Tucil1_13520135.md	/^#### Langkah 3$/;"	t	subsection:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022""Deskripsi Algoritma""Menyelesaikan Puzzle
+Langkah 4	doc/Tucil1_13520135.md	/^#### Langkah 4$/;"	t	subsection:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022""Deskripsi Algoritma""Mem-*parse* Puzzle
+Langkah 4	doc/Tucil1_13520135.md	/^#### Langkah 4$/;"	t	subsection:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022""Deskripsi Algoritma""Menyelesaikan Puzzle
+Langkah 5	doc/Tucil1_13520135.md	/^#### Langkah 5$/;"	t	subsection:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022""Deskripsi Algoritma""Mem-*parse* Puzzle
+Langkah 5	doc/Tucil1_13520135.md	/^#### Langkah 5$/;"	t	subsection:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022""Deskripsi Algoritma""Menyelesaikan Puzzle
+Langkah 6	doc/Tucil1_13520135.md	/^#### Langkah 6$/;"	t	subsection:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022""Deskripsi Algoritma""Menyelesaikan Puzzle
+Langkah 7	doc/Tucil1_13520135.md	/^#### Langkah 7$/;"	t	subsection:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022""Deskripsi Algoritma""Menyelesaikan Puzzle
+Langkah 8	doc/Tucil1_13520135.md	/^#### Langkah 8$/;"	t	subsection:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022""Deskripsi Algoritma""Menyelesaikan Puzzle
+Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022	doc/Tucil1_13520135.md	/^# Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021\/2022$/;"	c
+Links and Check Lists	doc/Tucil1_13520135.md	/^## Links and Check Lists$/;"	s	chapter:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022
+Main	src/Main.java	/^public class Main {$/;"	c
+Mem-*parse* Puzzle	doc/Tucil1_13520135.md	/^### Mem-*parse* Puzzle$/;"	S	section:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022""Deskripsi Algoritma
+Menyelesaikan Puzzle	doc/Tucil1_13520135.md	/^### Menyelesaikan Puzzle$/;"	S	section:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022""Deskripsi Algoritma
+Puzzle_Solver	src/Puzzle_Solver.java	/^    public Puzzle_Solver(Word_Puzzle WP) {$/;"	m	class:Puzzle_Solver
+Puzzle_Solver	src/Puzzle_Solver.java	/^public class Puzzle_Solver {$/;"	c
+Source Program	doc/Tucil1_13520135.md	/^## Source Program$/;"	s	chapter:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022
+StringCompare	src/Puzzle_Solver.java	/^    public StringCompare(Integer comparisonNum, Boolean comparisonResult) {$/;"	m	class:StringCompare
+StringCompare	src/Puzzle_Solver.java	/^    public StringCompare(String strA, String strB) {$/;"	m	class:StringCompare
+StringCompare	src/Puzzle_Solver.java	/^class StringCompare {$/;"	c
+Test Case 1 (Small Puzzle)	doc/Tucil1_13520135.md	/^### Test Case 1 (Small Puzzle)$/;"	S	section:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022""Tests
+Test Case 2 (Small Puzzle)	doc/Tucil1_13520135.md	/^### Test Case 2 (Small Puzzle)$/;"	S	section:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022""Tests
+Test Case 3 (Small Puzzle)	doc/Tucil1_13520135.md	/^### Test Case 3 (Small Puzzle)$/;"	S	section:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022""Tests
+Test Case 4 (Medium Puzzle)	doc/Tucil1_13520135.md	/^### Test Case 4 (Medium Puzzle)$/;"	S	section:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022""Tests
+Test Case 5 (Medium Puzzle)	doc/Tucil1_13520135.md	/^### Test Case 5 (Medium Puzzle)$/;"	S	section:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022""Tests
+Test Case 6 (Medium Puzzle)	doc/Tucil1_13520135.md	/^### Test Case 6 (Medium Puzzle)$/;"	S	section:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022""Tests
+Test Case 7 (Big Puzzle)	doc/Tucil1_13520135.md	/^### Test Case 7 (Big Puzzle)$/;"	S	section:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022""Tests
+Test Case 8 (Big Puzzle)	doc/Tucil1_13520135.md	/^### Test Case 8 (Big Puzzle)$/;"	S	section:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022""Tests
+Tests	doc/Tucil1_13520135.md	/^## Tests$/;"	s	chapter:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022
+Word Search Bruteforce	README.md	/^# Word Search Bruteforce$/;"	c
+Word_Puzzle	src/Word_Puzzle.java	/^    public Word_Puzzle(Integer puzzleRows, Integer puzzleCols) {$/;"	m	class:Word_Puzzle
+Word_Puzzle	src/Word_Puzzle.java	/^    public Word_Puzzle(String filepath) {$/;"	m	class:Word_Puzzle
+Word_Puzzle	src/Word_Puzzle.java	/^public class Word_Puzzle {$/;"	c
+`Main.java`	doc/Tucil1_13520135.md	/^### `Main.java`$/;"	S	section:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022""Source Program
+`Puzzle_Solver.java`	doc/Tucil1_13520135.md	/^### `Puzzle_Solver.java`$/;"	S	section:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022""Source Program
+`Word_Puzzle.java`	doc/Tucil1_13520135.md	/^### `Word_Puzzle.java`$/;"	S	section:Laporan Tugas Kecil 1 IF2211 Strategi Algoritma 2021/2022""Source Program
+cellCompare	src/Puzzle_Solver.java	/^    private static Integer cellCompare(Word_Puzzle originalWP, String[][] resultPuzzle, Integer /;"	m	class:Puzzle_Solver	file:
+compNum	src/Puzzle_Solver.java	/^    public Integer compNum;$/;"	f	class:StringCompare
+compNumber	src/Puzzle_Solver.java	/^    public Integer compNumber;$/;"	f	class:Puzzle_Solver
+compResult	src/Puzzle_Solver.java	/^    public Boolean compResult;$/;"	f	class:StringCompare
+display	src/Puzzle_Solver.java	/^    public void display() {$/;"	m	class:Puzzle_Solver
+display	src/Word_Puzzle.java	/^    public void display() {$/;"	m	class:Word_Puzzle
+emptyPuzzle	src/Puzzle_Solver.java	/^    private static String[][] emptyPuzzle(Integer rowNum, Integer colNum) {$/;"	m	class:Puzzle_Solver	file:
+getHorizontalString	src/Puzzle_Solver.java	/^    private static String getHorizontalString(Word_Puzzle WP, Integer initX, Integer initY, Inte/;"	m	class:Puzzle_Solver	file:
+getNegativeDiagonalString	src/Puzzle_Solver.java	/^    private static String getNegativeDiagonalString(Word_Puzzle WP, Integer initX, Integer initY/;"	m	class:Puzzle_Solver	file:
+getPositiveDiagonalString	src/Puzzle_Solver.java	/^    private static String getPositiveDiagonalString(Word_Puzzle WP, Integer initX, Integer initY/;"	m	class:Puzzle_Solver	file:
+getVerticalString	src/Puzzle_Solver.java	/^    private static String getVerticalString(Word_Puzzle WP, Integer initX, Integer initY, Intege/;"	m	class:Puzzle_Solver	file:
+horizontalCompare	src/Puzzle_Solver.java	/^    private static StringCompare horizontalCompare(Word_Puzzle WP, Integer initRow, Integer init/;"	m	class:Puzzle_Solver	file:
+main	src/Main.java	/^    public static void main(String[] args) {$/;"	m	class:Main
+min	src/Puzzle_Solver.java	/^    private static Integer min(Integer intA, Integer intB) {$/;"	m	class:Puzzle_Solver	file:
+min	src/Puzzle_Solver.java	/^    private static Integer min(Integer intA, Integer intB, Integer intC) {$/;"	m	class:Puzzle_Solver	file:
+negativeDiagonalCompare	src/Puzzle_Solver.java	/^    private static StringCompare negativeDiagonalCompare(Word_Puzzle WP, Integer initRow, Intege/;"	m	class:Puzzle_Solver	file:
+parsePuzzleMatrix	src/Word_Puzzle.java	/^    private static String[][] parsePuzzleMatrix(String puzzleMatrixString) {$/;"	m	class:Word_Puzzle	file:
+parsePuzzleSolutions	src/Word_Puzzle.java	/^    private static String[] parsePuzzleSolutions(String puzzleSolutionsString) {$/;"	m	class:Word_Puzzle	file:
+positiveDiagonalCompare	src/Puzzle_Solver.java	/^    private static StringCompare positiveDiagonalCompare(Word_Puzzle WP, Integer initRow, Intege/;"	m	class:Puzzle_Solver	file:
+puzzle_cols	src/Word_Puzzle.java	/^    public Integer puzzle_cols;$/;"	f	class:Word_Puzzle
+puzzle_matrix	src/Word_Puzzle.java	/^    public String[][] puzzle_matrix;$/;"	f	class:Word_Puzzle
+puzzle_rows	src/Word_Puzzle.java	/^    public Integer puzzle_rows;$/;"	f	class:Word_Puzzle
+puzzle_solutions	src/Word_Puzzle.java	/^    public String[] puzzle_solutions;$/;"	f	class:Word_Puzzle
+reverseString	src/Puzzle_Solver.java	/^    private static String reverseString(String str) {$/;"	m	class:Puzzle_Solver	file:
+solvedPuzzle	src/Puzzle_Solver.java	/^    public String[][] solvedPuzzle;$/;"	f	class:Puzzle_Solver
+verticalCompare	src/Puzzle_Solver.java	/^    private static StringCompare verticalCompare(Word_Puzzle WP, Integer initRow, Integer initCo/;"	m	class:Puzzle_Solver	file:
