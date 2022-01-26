@@ -115,7 +115,8 @@ public class Puzzle_Solver {
         return compareResult;
     }
 
-    private static StringCompare negativeDiagonalCompare(Word_Puzzle WP, Integer initRow, Integer initCol, String toCompare,
+    private static StringCompare negativeDiagonalCompare(Word_Puzzle WP, Integer initRow, Integer initCol,
+            String toCompare,
             String[][] resultPuzzle) {
         String str = getNegativeDiagonalString(WP, initCol, initRow, toCompare.length());
 
@@ -135,7 +136,8 @@ public class Puzzle_Solver {
         return compareResult;
     }
 
-    private static StringCompare positiveDiagonalCompare(Word_Puzzle WP, Integer initRow, Integer initCol, String toCompare,
+    private static StringCompare positiveDiagonalCompare(Word_Puzzle WP, Integer initRow, Integer initCol,
+            String toCompare,
             String[][] resultPuzzle) {
         String str = getPositiveDiagonalString(WP, initCol, initRow, toCompare.length());
 
@@ -154,6 +156,7 @@ public class Puzzle_Solver {
 
         return compareResult;
     }
+
     private static Integer cellCompare(Word_Puzzle originalWP, String[][] resultPuzzle, Integer rowIdx,
             Integer colIdx) {
         Integer compNumber = 0;

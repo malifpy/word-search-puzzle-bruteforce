@@ -2,7 +2,7 @@
 
 Word Puzzle solver using bruteforce algorithm.
 
-Precompiled with the following specification:
+Precompiled in Linux Fedora 35 with the following specification:
 
 ```bash
 openjdk 17.0.1 2021-10-19
@@ -17,10 +17,10 @@ To compile, run `build.sh`.
 $ ./build.sh
 ```
 
-File is compiled as `WordSearchBruteforce.jar`. This can be changed by changing `FILENAME` in `build.sh`.
+File is compiled as `Tucil1_13520135.jar`. This can be changed by changing `FILENAME` in `build.sh`.
 
 To run, use Java
 
 ```bash
-$ java -jar WordSearchBruteforce.jar
+$ java -jar Tucil1_13520135.jar
 ```

@@ -6,18 +6,22 @@ public class Main {
 
         Scanner consoleInput = new Scanner(System.in);
 
-        System.out.printf("Input Filepath: ");
-        String filePath = consoleInput.nextLine();
-
+        String filePath;
         String queryAnswer;
         Boolean repeat;
 
         do {
+
+            System.out.printf("Input Filepath: ");
+            filePath = consoleInput.nextLine();
+
             // Load File
             Word_Puzzle wp = new Word_Puzzle(filePath);
 
             // Display Puzzle Info to Console
-            System.out.printf("Solving %d x %d Word Puzzle\n", wp.puzzle_rows, wp.puzzle_cols);
+            wp.display();
+            System.out.println();
+            System.out.printf("Solving %d x %d Word Puzzle...\n", wp.puzzle_rows, wp.puzzle_cols);
 
             // Timer Start
             long startTime = System.nanoTime();
@@ -41,7 +45,7 @@ public class Main {
             repeat = Objects.equals(queryAnswer, "Y");
         } while (repeat);
 
-        System.out.println("Thank You for Using My Program!");
+        System.out.println("Thank You! Exiting Program...");
         consoleInput.close();
     }
 }

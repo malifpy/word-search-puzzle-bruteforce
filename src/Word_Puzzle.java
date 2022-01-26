@@ -14,8 +14,8 @@ public class Word_Puzzle {
         puzzle_matrix = new String[puzzleRows][puzzleCols];
         puzzle_solutions = null;
 
-        for (int rows = 0; rows < puzzleRows; rows++){
-            for(int cols = 0; cols < puzzleCols; cols++){
+        for (int rows = 0; rows < puzzleRows; rows++) {
+            for (int cols = 0; cols < puzzleCols; cols++) {
                 puzzle_matrix[rows][cols] = "-";
             }
         }
@@ -38,19 +38,18 @@ public class Word_Puzzle {
         String tempPuzzleMatrix[] = puzzleMatrixString.split("\\n");
         String[][] puzzleMatrix = new String[tempPuzzleMatrix.length][tempPuzzleMatrix[0].split(" ").length];
 
-        for(int row = 0; row < tempPuzzleMatrix.length; row++){
+        for (int row = 0; row < tempPuzzleMatrix.length; row++) {
             puzzleMatrix[row] = tempPuzzleMatrix[row].split(" ");
         }
-        return puzzleMatrix;        
+        return puzzleMatrix;
     }
 
     private static String[] parsePuzzleSolutions(String puzzleSolutionsString) {
         return puzzleSolutionsString.split("\\n");
     }
 
-
     public void display() {
-        System.out.println("Word Matrix: ");
+        System.out.println("Word Puzzle: ");
         for (int i = 0; i < puzzle_rows; i++) {
             for (int j = 0; j < puzzle_cols; j++) {
                 System.out.printf("%s ", puzzle_matrix[i][j]);
@@ -59,13 +58,16 @@ public class Word_Puzzle {
         }
 
         System.out.println("Word Solutions: ");
-        for(int solNum = 0; solNum < puzzle_solutions.length; solNum++){
-            System.out.println(puzzle_solutions[solNum]);
+        // for (int solNum = 0; solNum < puzzle_solutions.length; solNum++) {
+        //     System.out.println(puzzle_solutions[solNum]);
+        // }
+        int printIdx = 0;
+        while (printIdx < puzzle_solutions.length) {
+            do {
+                System.out.printf("%s\t", puzzle_solutions[printIdx]);
+                printIdx++;
+            } while (printIdx % 5 != 0 && printIdx < puzzle_solutions.length);
+            System.out.println();
         }
-    }
-
-    public static void main(String[] args) {
-        Word_Puzzle wp = new Word_Puzzle("test/test1.txt");
-        wp.display();
     }
 }

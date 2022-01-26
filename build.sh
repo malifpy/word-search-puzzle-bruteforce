@@ -4,7 +4,7 @@
 # Extension "Project Manager for Java"
 # terus bisa export to jar dari situ
 
-FILENAME=WordSearchBruteforce
+FILENAME=Tucil1_13520135
 
 cd src/
 javac *.java
